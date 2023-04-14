@@ -12,6 +12,7 @@ I'm currently working on personal projects<br>I'm currently learning algorithm i
   - Front-end: https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-front-202301-mad (React, Redux)
   - Back-end: https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-back-202301-mad (Node.js, Express, MongoDB)
   Uploaded to netlify: https://carlos-ruiz-final-front.netlify.app/, with back-end upload to render. Let it load :) .
+  
   ![main page](https://user-images.githubusercontent.com/47413051/232054811-3e40f6ad-e14f-4e0e-87bd-f29ca83cf27e.png)
 
 
