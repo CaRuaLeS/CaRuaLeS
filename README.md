@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on personal projects<br>I'm currently learning algorithm in javascript<br>I'm looking to collaborate on any project that challenges me<br>Know about my experience: https://drive.google.com/file/d/1J8V2-FVOBRnqQs3ag6GoGgx4igtZP5X0/view?usp=share_link
+I'm currently working on personal projects<br>I'm currently learning JAVA<br>I'm looking to collaborate on any project that challenges me<br>Know about my experience: https://drive.google.com/file/d/1J8V2-FVOBRnqQs3ag6GoGgx4igtZP5X0/view?usp=share_link
 
 
 # 💻 Tech Stack:
