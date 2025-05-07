@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning about Agents<br>More than 2 years of experience with the Angular framework
+I am currently learning about Agents<br>More than two years of experience with the Angular framework
 
 
 # 💻 Tech Stack:
