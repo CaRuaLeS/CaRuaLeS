@@ -15,5 +15,4 @@ I am currently learning about Agents<br>More than two years of experience with t
 - Web application that allows you to filter, view and book escape rooms.
   - Front-end: https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-front-202301-mad (React, Redux, TypeScript, Sass)
   - Back-end: https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-back-202301-mad (Node.js, TypeScript, Express, MongoDB).
-![mazenor_screenshoot](https://github.com/user-attachments/assets/765edf98-ce01-44bb-8d92-423551c1d141)
-<img src="https://github.com/user-attachments/assets/765edf98-ce01-44bb-8d92-423551c1d141" width="400">
+  <img src="https://github.com/user-attachments/assets/765edf98-ce01-44bb-8d92-423551c1d141" width="400">
