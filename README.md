@@ -9,8 +9,8 @@ I am currently learning about Agents<br>More than two years of experience with t
 ### Projects
 - Check repositories
   - Mainly my angular learning path and others
-  - Complete CRUD: HeroesApp
-  - Use or routes, rxjs, storage: CountryApp
+  - Complete CRUD (Angular): HeroesApp
+  - Use or routes, rxjs, storage (Angular): CountryApp
 #### Final Bootcamp project with React Redux: Maze Manor
 - Web application that allows you to filter, view and book escape rooms.
   - Front-end: https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-front-202301-mad (React, Redux, TypeScript, Sass)
