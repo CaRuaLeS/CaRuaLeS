@@ -8,8 +8,7 @@ I am currently learning about Agents<br>More than two years of experience with t
 - Database: MongoDB
 - Tools & Platforms: Git, Docker, Jira, CNode.jsI/CD (Jenkins)
 
-## Here you can find some of my projects:
-### Projects
+## Projects
 - Web application that allows you to filter, view and book escape rooms.
   - Front-end: https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-front-202301-mad (React, Redux, TypeScript, Sass)
   - Back-end: https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-back-202301-mad (Node.js, TypeScript, Express, MongoDB).
