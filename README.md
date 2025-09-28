@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently learning about Agents<br>More than two years of experience with the Angular framework
+Full-stack developer, mainly experience in Angular, with knowledge in no relational databases and RESTful APIs,
+
 
 
 # 💻 Tech Stack:
