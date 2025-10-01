@@ -7,7 +7,7 @@ Full-stack developer, mainly experience in Angular, with knowledge in no relatio
 - Languages: Typescript / JavaScript, Python, C#
 - Frameworks / Libraries: React, Angular, Node.js, Redux, Mongoose, Jest, Express
 - Database: MongoDB
-- Tools & Platforms: Git, Docker, Jira, CNode.jsI/CD (Jenkins)
+- Tools & Platforms: Git, Docker, Jira, Node.js, CI/CD (Jenkins)
 
 ## Projects
 - Web application that allows you to filter, view and book escape rooms.
