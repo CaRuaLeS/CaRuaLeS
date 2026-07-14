@@ -1,14 +1,15 @@
 # Hi there, I'm Carlos Ruiz! 👋 🚀
 
-**Full-Stack Software Engineer | AI Orchestration | Tech Lead**
+**Full-Stack Software Engineer | AI Specialist | Tech Lead**
 
-I am a versatile Software Engineer with background transitioning from Video Game Design to enterprise-level Web Development and **Generative AI**. Currently, I provide AI integration for technical development at NTT DATA, specializing in scalable architectures, and agent AI systems.
+I am a Software Engineer with a background transitioning from Video Game Design to enterprise-level Web Development and **Generative AI**. Currently, I provide technical AI integration at NTT DATA, specializing in scalable architectures, legacy code modernization, and driving team efficiency through custom AI tools.
 
-My passion lies in bridging the gap between robust Backend environments (Python, .NET, Node.js) and intuitive Frontend interfaces (Angular, React), heavily utilizing AI agents to optimize the development lifecycle.
+My passion lies in bridging the gap between robust Backend environments (Python, .NET, Node.js) and intuitive Frontend interfaces (Angular, React), utilizing AI and automation to drastically accelerate delivery times and improve code maintainability.
 
 ### 🧠 What I'm currently working on
-* 🤖 **AI & LLM Orchestration:** Building and orchestrating autonomous AI agents, multi-LLM systems, and integrating Generative AI solutions using **Python** and **FastAPI**.
-* ☁️ **Cloud Architecture:** Managing and deploying containerized microservices utilizing **Microsoft Azure**, **Kubernetes**, and CQRS patterns in **.NET**.
+* 🤖 **AI-Driven Development & Automation:** Designing custom AI agents and skills to automate repetitive team tasks, generate technical documentation, and explain complex architectures interactively.
+* ⚙️ **Advanced Prompt Engineering:** Applying harness engineering methodologies to refactor and optimize legacy code safely and efficiently.
+* ☁️ **Backend & Cloud Architecture:** Managing and deploying distributed microservices utilizing the **CQRS** pattern with aggregation logic in **.NET**, fully orchestrated via **Microsoft Azure** and **Kubernetes** CI/CD pipelines.
 * 🌐 **Frontend Leadership:** Leading a team of developers using **Angular** and Micro-frontend architectures.
 
 ---
@@ -19,6 +20,7 @@ My passion lies in bridging the gap between robust Backend environments (Python,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data_Science-FF9E0F?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge)
 
 **Backend & Cloud:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -35,6 +37,7 @@ My passion lies in bridging the gap between robust Backend environments (Python,
 
 **Game Dev (My Roots):**
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
 
 ---
 
