@@ -49,7 +49,6 @@ My passion lies in bridging the gap between robust Backend environments (Python,
 
 <p align="left">
 <a href="https://www.linkedin.com/in/carlosruizalcerreca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosruizalcerreca" height="30" width="40" /></a>
-<a href="mailto:carua97@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="30" /></a>
 </p>
 
 *“Applying SOLID principles, Clean Code, and Generative AI to build scalable and maintainable solutions.”*
