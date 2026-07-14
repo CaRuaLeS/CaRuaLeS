@@ -40,7 +40,7 @@ My passion lies in bridging the gap between robust Backend environments (Python,
 
 ### 🚀 Highlighted Projects
 
-* 🏰 **Maze Manor [Front]([https://github.com/CaRuaLeS](https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-back-202301-mad)) | [Back]([https://github.com/CaRuaLeS](https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-back-202301-mad))**: A Full-Stack (MERN) application for booking escape rooms. Features a secure authentication system with JSON Web Tokens (JWT) and a robust RESTful API to manage users, bookings, and rooms.
+* 🏰 **Maze Manor [Front](https://github.com/CaRuaLeS](https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-back-202301-mad)) | [Back](https://github.com/CaRuaLeS](https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-back-202301-mad))**: A Full-Stack (MERN) application for booking escape rooms. Features a secure authentication system with JSON Web Tokens (JWT) and a robust RESTful API to manage users, bookings, and rooms.
 * 🎮 **[Way To Yaatra (Steam)](https://store.steampowered.com/app/1305730/Way_To_Yaatra/)**: A published 2D platformer video game. Acted as a C# Programmer and Game Designer, autonomously designing and implementing complex enemy AI, end-boss behavior patterns, and the interactive dialogue system.
 
 ---
