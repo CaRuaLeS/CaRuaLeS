@@ -51,23 +51,4 @@ My passion lies in bridging the gap between robust Backend environments (Python,
 <a href="https://www.linkedin.com/in/carlosruizalcerreca/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosruizalcerreca" height="30" width="40" /></a>
 </p>
 
-*“Applying SOLID principles, Clean Code, and Generative AI to build scalable and maintainable solutions.”*
-
-???????????????????????????
-# 💫 About Me:
-Full-stack developer, mainly experience in Angular, with knowledge in no relational databases and RESTful APIs,
-
-
-
-# 💻 Tech Stack:
-- Languages: Typescript / JavaScript, Python, C#
-- Frameworks / Libraries: React, Angular, Node.js, Redux, Mongoose, Jest, Express
-- Database: MongoDB
-- Tools & Platforms: Git, Docker, Jira, Node.js, CI/CD (Jenkins)
-
-## Projects
-- Web application that allows you to filter, view and book escape rooms.
-  - Front-end: https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-front-202301-mad (React, Redux, TypeScript, Sass)
-  - Back-end: https://github.com/CaRuaLeS/Carlos-Ruiz-Final-Project-back-202301-mad (Node.js, TypeScript, Express, MongoDB).
-  <br>
-  <img src="https://github.com/user-attachments/assets/765edf98-ce01-44bb-8d92-423551c1d141" width="350">
+*“Applying AI frameworks, Design Patterns, SOLID principles, Clean Code, and Generative AI to build scalable and maintainable solutions.”*
